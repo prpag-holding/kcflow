@@ -172,9 +172,8 @@ The `kcflow.config.json` file handles your project settings. Intellisense is sup
 
 We'd love to hear your feedback!
 
-* **Found a bug?** [Open an Issue](https://www.google.com/search?q=https://github.com/prpag-holding/kcflow/issues)
-* **Have a question?** [Start a Discussion](https://www.google.com/search?q=https://github.com/prpag-holding/kcflow/discussions)
-* **Chat with us:** [Join Discord](https://www.google.com/search?q=https://discord.gg/your-invite-link)
+* **Found a bug?** [Open an Issue](https://github.com/prpag-holding/kcflow/issues)
+* **Have a question?** [Start a Discussion](https://github.com/prpag-holding/kcflow/discussions)
 
 ---
 
@@ -191,5 +190,5 @@ Maintained with ❤️ by <strong>PRPAG HOLDING LTD.</strong>
 
 
 
-<a href="https://www.google.com/search?q=https://api.kcflow.dev">Website</a> • <a href="https://www.google.com/search?q=https://github.com/prpag-holding/kcflow">GitHub</a>
+<a href="https://kcflow.dev">Website</a> • <a href="https://github.com/prpag-holding/kcflow">GitHub</a>
 </p>
